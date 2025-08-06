@@ -171,7 +171,7 @@ def upload_files(application_id):
 
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyAQ7QjL1x5y5najnt1UEw_43gdMsokq5iM")
+genai.configure(api_key=GOOGLE_API_KEY)
 
 @app.route("/chatbot-stream", methods=["POST"])
 def chatbot_stream():
