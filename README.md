@@ -31,6 +31,13 @@ The project provides CRUD operations for job applications, file upload support, 
 
 ---
 
+##  Demo
+
+![Demo](demo/job_smart_asst_gif1.gif)
+
+> _A step-by-step guide to how the job tracker board and smart assistant operates_
+
+---
 ##  Tech Stack
 
 - **Backend:** Flask (Python)
